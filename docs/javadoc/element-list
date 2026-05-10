@@ -1,0 +1,15 @@
+org.redcape
+org.redcape.controller
+org.redcape.exceptions
+org.redcape.model
+org.redcape.model.entity
+org.redcape.model.level
+org.redcape.model.object
+org.redcape.model.object.items
+org.redcape.model.object.items.key
+org.redcape.model.tile
+org.redcape.util
+org.redcape.view
+org.redcape.view.ui
+org.redcape.view.ui.elements
+org.redcape.view.ui.screens
